@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AmazonHelper.iml" filepath="$PROJECT_DIR$/AmazonHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmazonTester.iml" filepath="$PROJECT_DIR$/AmazonTester.iml" />
     </modules>
   </component>
 </project>
